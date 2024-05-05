@@ -4,8 +4,11 @@ Touch Screen Viability and Tactile Feedback in Video Game Controls
 Anthony Sargent
 
 Github Link: https://github.com/csu-hci-projects/SP24-Touch-Screen-Viability-And-Tactile-Feedback-In-Video-Game-Controls
+
 Checkpoint 1 link: https://youtu.be/QgbwVMmLwOs
+
 Demo+Code video link: https://youtu.be/eNQxPyq5bqM
+
 Short Overview video link: https://youtu.be/OUnQ-8r3GNM
 
 
