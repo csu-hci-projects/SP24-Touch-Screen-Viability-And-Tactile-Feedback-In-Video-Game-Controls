@@ -5,6 +5,8 @@ Anthony Sargent
 
 Github Link: https://github.com/csu-hci-projects/SP24-Touch-Screen-Viability-And-Tactile-Feedback-In-Video-Game-Controls
 Checkpoint 1 link: https://youtu.be/QgbwVMmLwOs
+Demo+Code video link: https://youtu.be/eNQxPyq5bqM
+Short Overview video link: https://youtu.be/OUnQ-8r3GNM
 
 
 In order to run my project the user needs to download the "CubeCave.apk" file located in the Source Code directory to an android device. Then on that android device it has to be installed and it will create a usable app. This app can also be uninstalled just like any other app on android. In order to use the touch controls the android device has to have a touch screen. The app is also programmed to work with attachable keyboards for a control scheme with tactile feedback.
